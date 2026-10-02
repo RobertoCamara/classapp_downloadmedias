@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+classapp_downloads/
+downloads/
+.env
+*.part
